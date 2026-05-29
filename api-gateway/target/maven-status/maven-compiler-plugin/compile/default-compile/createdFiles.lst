@@ -1,0 +1,4 @@
+com\microservices\gateway\config\CorsConfig.class
+com\microservices\gateway\filter\JwtAuthenticationFilter.class
+com\microservices\gateway\ApiGatewayApplication.class
+com\microservices\gateway\filter\JwtAuthenticationFilter$Config.class
