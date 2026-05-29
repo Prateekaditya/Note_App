@@ -1,0 +1,9 @@
+com\microservices\noteservice\dto\UserResponse.class
+com\microservices\noteservice\NoteServiceApplication.class
+com\microservices\noteservice\repository\NoteRepository.class
+com\microservices\noteservice\client\UserServiceClient.class
+com\microservices\noteservice\dto\NoteRequest.class
+com\microservices\noteservice\dto\NoteResponse.class
+com\microservices\noteservice\controller\NoteController.class
+com\microservices\noteservice\entity\Note.class
+com\microservices\noteservice\service\NoteService.class
